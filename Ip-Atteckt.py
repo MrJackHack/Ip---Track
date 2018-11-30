@@ -41,11 +41,11 @@ time.sleep(3)
 print
 print
 print
-print "\033[1m\033[33m\n\tDeveloper : \033[32m \033[33mS\033[32MR JACK \033[33mP\033[32HACKER\033[0m"
+print "\033[1m\033[33m\n\tDeveloper : \033[32m \033[33mS\033[32mMR JACK \033[33mP\033[32mHACKER\033[0m"
 time.sleep(1)
-print "\033[1m\033[33m\n\tBlog      :  \033[32mhttp:\033[33m//\033[32mhackers2632\033[33m4\033[32m.blogspot.com\033[0m"
+print "\033[1m\033[33m\n\tBlog      :  \033[32mhttp:\033[33m//\033[32mhackers2631\033[33m4\033[32m.blogspot.com\033[0m"
 time.sleep(1)
-print "\033[1m\033[33m\n\tYoutube   : \033[32m \033[33mB\033[32mull \033[33mA\033[32MR JACK HACKER\033[0m"
+print "\033[1m\033[33m\n\tYoutube   : \033[32m \033[33mB\033[32mzMr \033[33mA\033[32mJACK HACKER\033[0m"
 time.sleep(2)
 print
 print
