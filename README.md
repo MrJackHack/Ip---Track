@@ -8,7 +8,7 @@ INSTALLATION
 
  cd $HOME
 
- git clone 
+ git clone https://github.com/MrJackHack/Ip---Track.git
 
  cd Ip-Attack
 
